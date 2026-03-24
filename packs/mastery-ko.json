@@ -1,0 +1,9 @@
+{
+  "name": "mastery-ko",
+  "description": "긴 문서 묶음을 한국어 초학습자용 코스로 바꾸는 팩",
+  "modules": [
+    "prompts/core/01_master_tutor_ko.md",
+    "prompts/core/02_socratic_tutor_ko.md",
+    "prompts/tasks/01_doc_to_course_ko.md"
+  ]
+}

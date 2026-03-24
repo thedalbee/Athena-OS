@@ -1,0 +1,8 @@
+{
+  "name": "lesson-ko",
+  "description": "문서 한 섹션을 수업으로 바꾸는 팩",
+  "modules": [
+    "prompts/core/01_master_tutor_ko.md",
+    "prompts/tasks/02_doc_to_lesson_ko.md"
+  ]
+}

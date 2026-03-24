@@ -1,0 +1,9 @@
+{
+  "name": "quiz-ko",
+  "description": "이해 점검과 active recall용 팩",
+  "modules": [
+    "prompts/core/02_socratic_tutor_ko.md",
+    "prompts/tasks/03_doc_to_quiz_ko.md",
+    "prompts/tasks/04_recall_drill_ko.md"
+  ]
+}

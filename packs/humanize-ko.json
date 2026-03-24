@@ -1,0 +1,8 @@
+{
+  "name": "humanize-ko",
+  "description": "딱딱한 AI 문체를 자연스러운 한국어 설명문으로 다듬는 팩",
+  "modules": [
+    "prompts/core/03_humanize_editor_ko.md",
+    "prompts/tasks/05_humanize_rewrite_ko.md"
+  ]
+}
